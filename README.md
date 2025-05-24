@@ -54,10 +54,10 @@ Configured WAN/LAN IPs, DNS, and gateway routing
 ![Screenshot SOAR 10](https://github.com/user-attachments/assets/75664d67-0ff5-4c0d-8bae-ed19ffcee8d9)
 ![Screenshot SOAR 12](https://github.com/user-attachments/assets/52ed571f-3d65-4b27-afd5-9ef942df9d29)
 ![Screenshot SOAR 16](https://github.com/user-attachments/assets/e13504a2-b635-4bcb-bf42-e14afe3e560f)
+![Screenshot SOAR 1](https://github.com/user-attachments/assets/2becbbc8-9a6c-485e-972f-c3cfbe2023ab)
 
 ![Screenshot SOAR 35](https://github.com/user-attachments/assets/9ba99624-4609-4f0c-8fb0-10282c8b4430)
 ![Screenshot SOAR 43](https://github.com/user-attachments/assets/5bf210dc-9857-4155-8f41-7d7be9dca07a)
-![Screenshot 2025-05-22 122014](https://github.com/user-attachments/assets/3e34f062-83a5-4403-ae23-5d5b6c56c977)
 
 2. ☁️ Cloud Deployment (Wazuh + TheHive)
 A. TheHive Server
@@ -85,9 +85,10 @@ Enabled archive logs to retain full event details
 
 ![Screenshot SOAR 18](https://github.com/user-attachments/assets/ec65f346-00b2-4dae-8a2e-063c6e0ba841)
 ![Screenshot SOAR 20](https://github.com/user-attachments/assets/099e0ae4-fdeb-4a07-9a51-7e24b3098886)
-![Screenshot SOAR 1](https://github.com/user-attachments/assets/2becbbc8-9a6c-485e-972f-c3cfbe2023ab)
 
 ![Screenshot SOAR 8](https://github.com/user-attachments/assets/3a947869-7c5c-435d-a156-926e5dde4f60)
+![Screenshot 2025-05-22 122014](https://github.com/user-attachments/assets/3e34f062-83a5-4403-ae23-5d5b6c56c977)
+
 
 3. ⚙️ Wazuh Agent (Windows 10)
 Installed and registered agent
