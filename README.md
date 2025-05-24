@@ -156,19 +156,9 @@ Create case in TheHive
 Notify security team via email
 
 📸 Screenshots
-📌 Add the following images:
+![Screenshot 2025-05-21 144926](https://github.com/user-attachments/assets/593cbcbc-0824-48c6-8360-1088665155d5)
 
-Wazuh alert showing Mimikatz detection
-
-Sysmon event log snippet
-
-TheHive case view
-
-Shuffle.io workflow builder
-
-pfSense WAN/LAN configuration
-
-VirusTotal scan result
+![Screenshot 2025-05-22 121818](https://github.com/user-attachments/assets/1d33518f-9518-421e-9571-2276d4def505)
 
 🔐 Key Findings
 SIEM requires tuning to detect stealthy malware
@@ -183,10 +173,8 @@ Shuffle.io adds automated response with minimal setup
 
 MITRE ATT&CK mapping brings structured threat visibility
 
-![Screenshot 2025-05-21 144926](https://github.com/user-attachments/assets/593cbcbc-0824-48c6-8360-1088665155d5)
 
-![Screenshot 2025-05-22 121818](https://github.com/user-attachments/assets/1d33518f-9518-421e-9571-2276d4def505)
-![Uploading Screenshot 2025-05-22 122014.png…]()
+
 🗣️ Conclusion
 
 This lab demonstrates how to build a functional SOC pipeline using free and open-source tools. From endpoint telemetry to automated enrichment and collaborative case management, every layer plays a vital role in defending against real-world threats like Mimikatz.
