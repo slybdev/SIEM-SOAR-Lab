@@ -117,8 +117,6 @@ Copy
 Edit
 OriginalFileName: mimikatz.exe
 ![Screenshot SOAR 38](https://github.com/user-attachments/assets/49d7cfa5-3a72-4e67-b4fa-5b2d2d623324)
-![Screenshot SOAR 41](https://github.com/user-attachments/assets/85246037-9524-4f32-a1a5-77380fb28889)
-![Screenshot SOAR 42](https://github.com/user-attachments/assets/a5670792-d6b7-4801-ac1a-6ec07ae866f3)
 
 ![Screenshot 2025-05-21 115011](https://github.com/user-attachments/assets/995978ca-25ff-4d70-9a7a-5d3c332cd1d8)
 ![Screenshot 2025-05-21 123323](https://github.com/user-attachments/assets/150eb4f3-5e8b-48fa-8b90-7360acccbb94)
@@ -158,6 +156,8 @@ Notify security team via email
 
 📸 Screenshots
 ![Screenshot 2025-05-21 144926](https://github.com/user-attachments/assets/593cbcbc-0824-48c6-8360-1088665155d5)
+![Screenshot SOAR 41](https://github.com/user-attachments/assets/85246037-9524-4f32-a1a5-77380fb28889)
+![Screenshot SOAR 42](https://github.com/user-attachments/assets/a5670792-d6b7-4801-ac1a-6ec07ae866f3)
 
 ![Screenshot 2025-05-22 121818](https://github.com/user-attachments/assets/1d33518f-9518-421e-9571-2276d4def505)
 
